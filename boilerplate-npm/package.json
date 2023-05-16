@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Eliza Kerrigan",
+	"author": "Eliza Kerrigan", 
 	"dependencies": {
 		"express": "^4.14.0"
 	},
